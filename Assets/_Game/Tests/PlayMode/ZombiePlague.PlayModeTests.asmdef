@@ -1,0 +1,1 @@
+{"name":"ZombiePlague.PlayModeTests","references":["ZombiePlague.Infrastructure","ZombiePlague.Domain","FishNet.Runtime"],"optionalUnityReferences":["TestAssemblies"]}

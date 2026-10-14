@@ -1,0 +1,1 @@
+{"name":"ZombiePlague.Editor","references":["ZombiePlague.Infrastructure","FishNet.Runtime","Unity.AI.Navigation"],"includePlatforms":["Editor"]}

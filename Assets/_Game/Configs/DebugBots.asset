@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50655ab75e3763743a7547fadbc9a37e, type: 3}
+  m_Name: DebugBots
+  m_EditorClassIdentifier: ZombiePlague.Infrastructure::ZombiePlague.Infrastructure.Configs.BotConfig
+  SightRange: 24
+  ThinkInterval: 0.2
+  ReactionTime: 0.3
+  MemoryDuration: 3
+  HumanDistance: 6
+  HumanSpeed: 2.8
+  ZombieSpeed: 3.4
+  BurstShots: 3
+  BurstPause: 0.55

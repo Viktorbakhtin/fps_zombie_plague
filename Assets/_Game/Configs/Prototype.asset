@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 976af7e1447b60245b698705e307aad5, type: 3}
+  m_Name: Prototype
+  m_EditorClassIdentifier: ZombiePlague.Infrastructure::ZombiePlague.Infrastructure.Configs.PrototypeConfig
+  mode: 0
+  maxPlayers: 2
+  humanHealth: 100
+  zombieHealth: 250
+  firstZombieHealth: 3000
+  bulletKnockbackPerDamage: 0.16
+  knockbackRange: 12.7
+  knockbackMaximumSpeed: 12
+  knockbackDrag: 4
+  crouchedKnockback: 0.25
+  weaponDamage: 25

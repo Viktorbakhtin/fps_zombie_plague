@@ -1,0 +1,13 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Builds/
+/.vs/
+*.csproj
+!Tools/Checks/DomainCheck.csproj
+*.sln
+**/bin/
+**/obj/
+/Assets/InitTestScene*

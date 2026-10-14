@@ -1,0 +1,1 @@
+{"name":"ZombiePlague.Infrastructure","rootNamespace":"ZombiePlague.Infrastructure","references":["ZombiePlague.Domain","ZombiePlague.Application","FishNet.Runtime","Unity.InputSystem"]}

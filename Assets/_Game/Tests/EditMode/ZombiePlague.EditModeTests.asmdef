@@ -1,0 +1,1 @@
+{"name":"ZombiePlague.EditModeTests","references":["ZombiePlague.Domain","ZombiePlague.Application"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}
